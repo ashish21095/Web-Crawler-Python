@@ -1,0 +1,1882 @@
+{
+ "Deca-2E,6Z,8E-trienoic acid isobutylamide": {
+  "trivial_names": "Spilanthol, affinin",
+  "formula": "C14H23NO",
+  "molecular_weight": "221.34"
+ },
+ "Deca-2E,6Z,8E-trienoic acid 2-methylbutylamide": {
+  "trivial_names": "Homospilanthol",
+  "formula": "C15H25NO",
+  "molecular_weight": "235.37"
+ },
+ "Dodeca-2E,4E,8Z,10Z-tetraenoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H25NO",
+  "molecular_weight": "247.38"
+ },
+ "Dodeca-2E,4E,8Z,10E-tetraenoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H25NO",
+  "molecular_weight": "247.38"
+ },
+ "Undeca-2E-ene-8,10-diynoic acid 2-methylbutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H23NO",
+  "molecular_weight": "245.36"
+ },
+ "Undeca-2E-ene-8,10-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C15H21NO",
+  "molecular_weight": "231.34"
+ },
+ "Undeca-2E,4Z-diene-8,10-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C15H19NO",
+  "molecular_weight": "229.32"
+ },
+ "Deca-2E,7Z-dienoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C14H25NO",
+  "molecular_weight": "223.36"
+ },
+ "Trideca-2E,7Z-diene-10,12-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C17H23NO",
+  "molecular_weight": "257.38"
+ },
+ "Undeca-2E,7Z,9E-trienoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C15H25NO",
+  "molecular_weight": "235.37"
+ },
+ "Nona-2Z-ene-6,8-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C13H17NO",
+  "molecular_weight": "203.28"
+ },
+ "Nona-2,3-epoxy-6,8-diynoic acid phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C17H17NO2",
+  "molecular_weight": "267.33"
+ },
+ "Nona-2Z-ene-6,8-diynoic acid phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C17H17NO",
+  "molecular_weight": "251.33"
+ },
+ "Deca-2Z-ene-6,8-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C14H19NO",
+  "molecular_weight": "217.31"
+ },
+ "Dodeca-2E,4E,9E-triene-8,11-dihydroxic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H27NO3",
+  "molecular_weight": "281.4"
+ },
+ "Trideca-2E,8E-diene-7-hydroxy-10,12-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C17H23NO2",
+  "molecular_weight": "273.38"
+ },
+ "Undeca-2E,4E-diene-8,10-diynoic acid phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C19H19NO",
+  "molecular_weight": "277.37"
+ },
+ "Undeca-2E,4Z-diene-8,10-diynoic acid phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C19H19NO",
+  "molecular_weight": "277.37"
+ },
+ "Deca-6Z,8E-dienoic acid isobutylamide": {
+  "trivial_names": "2,3-dihydrospilanthol or hydrospilanthol",
+  "formula": "C14H25NO",
+  "molecular_weight": "223.36"
+ },
+ "Deca-2Z-ene-6,8-diynoic acid phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C18H19NO",
+  "molecular_weight": "265.35"
+ },
+ "Deca-2Z-ene-6,8-diynoic acid 1\u2019Z-styrylamide": {
+  "trivial_names": "-",
+  "formula": "C18H17NO",
+  "molecular_weight": "263.34"
+ },
+ "Nona-2Z-ene-6,8-diynoic acid 1\u2019Z-styrylamide": {
+  "trivial_names": "-",
+  "formula": "C17H15NO",
+  "molecular_weight": "249.31"
+ },
+ "Deca-2Z-ene-6,8-diynoic acid 1\u2019E-styrylamide": {
+  "trivial_names": "-",
+  "formula": "C18H17NO",
+  "molecular_weight": "263.34"
+ },
+ "Nona-2Z-ene-6,8-diynoic acid 1\u2019E-styrylamide": {
+  "trivial_names": "-",
+  "formula": "C17H15NO",
+  "molecular_weight": "249.31"
+ },
+ "Nona-2,3-epoxy-6,8-diynoic acid 1\u2019Z-styrylamide": {
+  "trivial_names": "-",
+  "formula": "C17H15NO2",
+  "molecular_weight": "265.31"
+ },
+ "Deca-2E,6Z,8E-trienoic acid phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C18H23NO",
+  "molecular_weight": "269.39"
+ },
+ "Deca-2E,6Z,8E-triene-10-isobutylcarboxylic acid isobutylamide": {
+  "trivial_names": "10-hydroxy spilanthol isovalerate",
+  "formula": "C19H31NO3",
+  "molecular_weight": "321.46"
+ },
+ "-": {
+  "trivial_names": "-",
+  "formula": "C13H16N2O",
+  "molecular_weight": "216.28"
+ },
+ "Dodeca-2E,4Z,8Z,10E-tetraenoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H25NO",
+  "molecular_weight": "247.38"
+ },
+ "Dodeca-2E,4E,8Z,10E-tetraenoic acid 2-methylbutylamide": {
+  "trivial_names": "-",
+  "formula": "C17H27NO",
+  "molecular_weight": "261.41"
+ },
+ "Undeca-2E,4E-diene-8,10-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C15H19NO",
+  "molecular_weight": "229.32"
+ },
+ "Undeca-2E,4E-diene-8,10-diynoic acid 2-methylbutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H21NO",
+  "molecular_weight": "243.35"
+ },
+ "Undeca-2Z,4E-diene-8,10-diynoic acid phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C19H19NO",
+  "molecular_weight": "277.37"
+ },
+ "Undeca-3E,5E-diene-8,10-diynoic acid phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C19H19NO",
+  "molecular_weight": "277.37"
+ },
+ "Deca-3E,6Z,8E-trienoic acid phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C18H23NO",
+  "molecular_weight": "269.39"
+ },
+ "Nona-2E-ene-6,8-diynoic acid phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C17H17NO",
+  "molecular_weight": "251.33"
+ },
+ "Octa-2E,4Z-dienoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C12H21NO",
+  "molecular_weight": "195.3"
+ },
+ "Octa-2Z,4E-dienoic acid phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C16H21NO",
+  "molecular_weight": "243.35"
+ },
+ "Tetradeca-2E,4E,8Z,10E-tetraene-7-hydroxic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C18H29NO2",
+  "molecular_weight": "291.43"
+ },
+ "Nona-2,4-dihydroxy-6,8-diynoic acid phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C17H19NO3",
+  "molecular_weight": "285.34"
+ },
+ "Undeca-7Z,9E-diene-2-hydroxic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C15H27NO2",
+  "molecular_weight": "253.38"
+ },
+ "Deca-6Z,8E-diene-2,5-dihydroxic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C14H25NO3",
+  "molecular_weight": "255.36"
+ },
+ "Trideca-5Z-ene-10,12-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C17H25NO",
+  "molecular_weight": "259.39"
+ },
+ "Deca-4E,6Z,8E-diene-2-hydroxic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C14H23NO2",
+  "molecular_weight": "237.34"
+ },
+ "Deca-2E,4E,6Z,8E-tetraenoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C14H21NO",
+  "molecular_weight": "219.33"
+ },
+ "Octa-2E-enoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C12H23NO",
+  "molecular_weight": "197.32"
+ },
+ "Octa-2E,4Z-dienoic acid phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C16H21NO",
+  "molecular_weight": "243.35"
+ },
+ "Dodeca-2E,4Z,8E,10E-tetraenoic acid 2-methylbutylamide": {
+  "trivial_names": "-",
+  "formula": "C17H27NO",
+  "molecular_weight": "247.38"
+ },
+ "N-phenylethyl-cinnamamide": {
+  "trivial_names": "-",
+  "formula": "C17H17NO",
+  "molecular_weight": "251.33"
+ },
+ "Octadeca-2E,4E,8E,10E,14Z-pentaene-12-ynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C22H31NO",
+  "molecular_weight": "325.49"
+ },
+ "Octadeca-2E,4E,8E,10Z,14Z-pentaene-12-ynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C22H31NO",
+  "molecular_weight": "325.49"
+ },
+ "Octadeca-2E,4E,8E,10Z-tetraene-12-ynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C22H33NO",
+  "molecular_weight": "327.51"
+ },
+ "Tetradeca-2E,4E,10Z-triene-8-ynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C18H27NO",
+  "molecular_weight": "273.42"
+ },
+ "Undeca-2Z,4E-diene-8,10-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C15H19NO",
+  "molecular_weight": "229.32"
+ },
+ "Undeca-2E,4Z-diene-8,10-diynoic acid 2-methylbutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H21NO",
+  "molecular_weight": "243.35"
+ },
+ "Undeca-2Z,4E-diene-8,10-diynoic acid 2-methylbutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H21NO",
+  "molecular_weight": "243.35"
+ },
+ "Dodeca-2Z,4E-diene-8,10-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H21NO",
+  "molecular_weight": "243.35"
+ },
+ "Dodeca-2E,4Z-diene-8,10-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H21NO",
+  "molecular_weight": "243.35"
+ },
+ "Dodeca-2E,4E,10E-triene-8-ynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H23NO",
+  "molecular_weight": "245.36"
+ },
+ "Dodeca-2E-ene-8,10-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H23NO",
+  "molecular_weight": "245.36"
+ },
+ "Dodeca-2E,4E,8E,10Z-tetraenoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H25NO",
+  "molecular_weight": "247.38"
+ },
+ "Dodeca-2E,4E,8E,10E-tetraenoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H25NO",
+  "molecular_weight": "247.38"
+ },
+ "Dodeca-2E,4E,8Z-trienoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H27NO",
+  "molecular_weight": "249.4"
+ },
+ "Dodeca-2E,4E-dienoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H29NO",
+  "molecular_weight": "251.41"
+ },
+ "Dodeca-2E,4Z-diene-8,10-diynoic acid 2-methylbutylamide": {
+  "trivial_names": "-",
+  "formula": "C17H23NO",
+  "molecular_weight": "257.38"
+ },
+ "Hexadeca-2E,9Z,12Z,14E-tetraenoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C20H33NO",
+  "molecular_weight": "303.49"
+ },
+ "Dodeca-2E,4Z,10Z-triene-8-ynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H23NO",
+  "molecular_weight": "245.36"
+ },
+ "Dodeca-2E,4Z,10E-triene-8-ynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H23NO",
+  "molecular_weight": "245.36"
+ },
+ "Trideca-2E,7Z-diene-10,12-diynoic acid 2-methylbutylamide": {
+  "trivial_names": "-",
+  "formula": "C18H25NO",
+  "molecular_weight": "271.4"
+ },
+ "Pentadeca-2E,9Z-diene-12,14-diynoic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C19H27NO2",
+  "molecular_weight": "301.43"
+ },
+ "Trideca-2E,6E,8Z-triene-10,12-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C17H21NO",
+  "molecular_weight": "255.36"
+ },
+ "Undeca-2Z-ene-8,10-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C15H21NO",
+  "molecular_weight": "231.34"
+ },
+ "Undeca-2Z-ene-8,10-diynoic acid 2-methylbutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H23NO",
+  "molecular_weight": "245.36"
+ },
+ "Hexadeca-2E,9Z-diene-12,14-diynoic acid IBA": {
+  "trivial_names": "-",
+  "formula": "C20H29NO",
+  "molecular_weight": "299.46"
+ },
+ "Dodeca-2E,4Z,8Z,10Z-tetraenoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H25NO",
+  "molecular_weight": "247.38"
+ },
+ "Tetradeca-2E,4E-diene-8,10-diynoic acid isobutylamide": {
+  "trivial_names": "Anacycline",
+  "formula": "C18H25NO",
+  "molecular_weight": "271.4"
+ },
+ "Tetradeca-2E,4E-diene-8,10-diynoic acid N-methyl isobutylamide": {
+  "trivial_names": "N-methyl anacycline",
+  "formula": "C19H27NO",
+  "molecular_weight": "285.43"
+ },
+ "Deca-2E,4E-dienoic acid isobutylamide": {
+  "trivial_names": "Pellitorine",
+  "formula": "C14H25NO",
+  "molecular_weight": "223.36"
+ },
+ "Deca-2E,8E-diene-4,6-diynoic acid N-methyl isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C15H19NO",
+  "molecular_weight": "229.32"
+ },
+ "Deca-2E-ene-4,6-diynoic acid N-methyl isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C15H21NO",
+  "molecular_weight": "231.34"
+ },
+ "Deca-2E,4E-dienoic acid tyramide": {
+  "trivial_names": "-",
+  "formula": "C18H25NO2",
+  "molecular_weight": "287.4"
+ },
+ "Dodeca-2E,4E-dienoic acid tyramide": {
+  "trivial_names": "-",
+  "formula": "C20H29NO2",
+  "molecular_weight": "315.46"
+ },
+ "Tetradeca-2E,4E-dienoic acid tyramide": {
+  "trivial_names": "-",
+  "formula": "C22H33NO2",
+  "molecular_weight": "343.51"
+ },
+ "Tetradeca-2E,4E-dienoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C18H33NO",
+  "molecular_weight": "279.47"
+ },
+ "Deca-2Z-diene-4,6,8-triynoic acid isobutylamide": {
+  "trivial_names": "Dehydromatricaric acid",
+  "formula": "C14H15NO",
+  "molecular_weight": "213.28"
+ },
+ "Deca-2E,4E-dienoic-6-hydroxic acid isobutylamide": {
+  "trivial_names": "6-hydroxy-pellitorine",
+  "formula": "C14H25NO2",
+  "molecular_weight": "239.36"
+ },
+ "Deca-2E,4E,6Z-trienoic acid piperideide": {
+  "trivial_names": "Pipernonaline",
+  "formula": "C15H21NO",
+  "molecular_weight": "231.34"
+ },
+ "Deca-2E,4E,8Z-trienoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C14H23NO",
+  "molecular_weight": "221.34"
+ },
+ "Undeca-2E,4E-diene-8,10-diynoic acid piperideide": {
+  "trivial_names": "-",
+  "formula": "C16H17NO",
+  "molecular_weight": "239.32"
+ },
+ "Deca-2E,4E,6Z,8Z-tetraenoic acid piperideide": {
+  "trivial_names": "-",
+  "formula": "C15H19NO",
+  "molecular_weight": "229.32"
+ },
+ "Deca-2E,4E,6E,8Z-tetraenoic acid piperideide": {
+  "trivial_names": "-",
+  "formula": "C15H19NO",
+  "molecular_weight": "229.32"
+ },
+ "Deca-2E,4E,8Z-trienoic acid piperidide": {
+  "trivial_names": "-",
+  "formula": "C15H23NO",
+  "molecular_weight": "233.35"
+ },
+ "Deca-2E,4E-dienoic acid piperidide": {
+  "trivial_names": "-",
+  "formula": "C15H25NO",
+  "molecular_weight": "235.37"
+ },
+ "Deca-2E,4E-dienoic acid piperideide": {
+  "trivial_names": "-",
+  "formula": "C15H23NO",
+  "molecular_weight": "233.35"
+ },
+ "Deca-2E,4E-dienoic acid 4-methoxy phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C19H27NO2",
+  "molecular_weight": "301.43"
+ },
+ "Deca-2E,4E,8Z-trienoic acid piperideide": {
+  "trivial_names": "-",
+  "formula": "C15H21NO",
+  "molecular_weight": "231.34"
+ },
+ "Deca-2E,4E,6E-trienoic acid piperideide": {
+  "trivial_names": "-",
+  "formula": "C15H21NO",
+  "molecular_weight": "231.34"
+ },
+ "Undeca-2E,4E-diene-8,10-diynoic acid piperidide": {
+  "trivial_names": "-",
+  "formula": "C16H19NO",
+  "molecular_weight": "241.33"
+ },
+ "Tetradeca-2E,4E,12E-triene-8,10-diynoic acid isobutylamide": {
+  "trivial_names": "E-Dehydroanacyline",
+  "formula": "C18H23NO",
+  "molecular_weight": "269.39"
+ },
+ "Tetradeca-2E,4E,12Z-triene-8,10-diynoic acid isobutylamide": {
+  "trivial_names": "Z-Dehydroanacyline",
+  "formula": "C18H23NO",
+  "molecular_weight": "269.39"
+ },
+ "Pentadeca-2E,9Z-diene-12,14-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C19H27NO",
+  "molecular_weight": "285.43"
+ },
+ "Hexadeca-2E,7Z-diene-10-ynoic acid 2,3-didehydropyrrolidide": {
+  "trivial_names": "-",
+  "formula": "C20H29NO",
+  "molecular_weight": "299.46"
+ },
+ "Hexadeca-7Z-ene-10-ynoic acid pyrrolide": {
+  "trivial_names": "-",
+  "formula": "C20H29NO",
+  "molecular_weight": "299.46"
+ },
+ "Hexadeca-2E,6E,8E-triene-10-ynoic acid 2,3-didehydropyrrolidide": {
+  "trivial_names": "-",
+  "formula": "C20H27NO",
+  "molecular_weight": "297.44"
+ },
+ "Hexadeca-2E,7Z-dienoic acid pyrrolide": {
+  "trivial_names": "-",
+  "formula": "C20H31NO",
+  "molecular_weight": "301.4700000000001"
+ },
+ "Dodeca-3,6-epoxic acid pyrrolide": {
+  "trivial_names": "-",
+  "formula": "C16H25NO2",
+  "molecular_weight": "263.38"
+ },
+ "Hexadeca-6E,8E-diene-10-ynoic acid pyrrolidide": {
+  "trivial_names": "-",
+  "formula": "C20H31NO",
+  "molecular_weight": "301.4700000000001"
+ },
+ "Hexadeca-2E,7Z-diene-10-ynoic acid pyrrolidide": {
+  "trivial_names": "-",
+  "formula": "C20H31NO",
+  "molecular_weight": "301.4700000000001"
+ },
+ "Tetradeca-2E,4E-diene-8-ynoic acid pyrrolidide": {
+  "trivial_names": "-",
+  "formula": "C18H27NO",
+  "molecular_weight": "273.42"
+ },
+ "Tetradeca-2E,4E,8Z,11Z-tetraenoic acid pyrrolidide": {
+  "trivial_names": "-",
+  "formula": "C18H27NO",
+  "molecular_weight": "273.42"
+ },
+ "Hexadeca-2E,6E,8E-triene-10-ynoic acid pyrrolidide": {
+  "trivial_names": "-",
+  "formula": "C20H29NO",
+  "molecular_weight": "299.46"
+ },
+ "Hexadeca-2E,6E,8E-triene-10-ynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C20H31NO",
+  "molecular_weight": "301.4700000000001"
+ },
+ "Hexadeca-2Z,6Z,8Z,12E-tetraenoic-10-ynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C20H29NO",
+  "molecular_weight": "299.46"
+ },
+ "Hexadeca-2E,7Z,12Z-triene-10-ynoic acid 2,3-didehydropyrrolidide": {
+  "trivial_names": "-",
+  "formula": "C20H27NO",
+  "molecular_weight": "297.44"
+ },
+ "Deca-2E,8Z-diene-4,6-diynoic acid isopentylamide": {
+  "trivial_names": "Matricaria acid isopentylamide",
+  "formula": "C15H19NO",
+  "molecular_weight": "229.32"
+ },
+ "Deca-2E-ene-4,6,8-triynoic acid isopentylamide": {
+  "trivial_names": "Dehydromatricaria acid isopentylamide",
+  "formula": "C15H17NO",
+  "molecular_weight": "227.31"
+ },
+ "Deca-2E,8Z-diene-4,6-diynoic acid isobutylamide": {
+  "trivial_names": "Matricaria acid isobutylamide",
+  "formula": "C14H17NO",
+  "molecular_weight": "215.3"
+ },
+ "Deca-2E,8Z-diene-4,6-diynoic acid phenylethylamide": {
+  "trivial_names": "Matricaria acid phenylethylamide",
+  "formula": "C18H17NO",
+  "molecular_weight": "263.34"
+ },
+ "Deca-2E,4E-dienoic acid isopentylamide": {
+  "trivial_names": "-",
+  "formula": "C15H27NO",
+  "molecular_weight": "237.39"
+ },
+ "Deca-2E-ene-4,6,8-triynoic acid phenylethylamide": {
+  "trivial_names": "Dehydromatricaria acid phenylethylamide",
+  "formula": "C18H15NO",
+  "molecular_weight": "261.32"
+ },
+ "Deca-2E,4E-dienoic acid phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C18H25NO",
+  "molecular_weight": "271.4"
+ },
+ "Tetradeca-2E,4E,6Z,12Z-tetraene-8,10-diynoic acid isopentylamide": {
+  "trivial_names": "-",
+  "formula": "C19H23NO",
+  "molecular_weight": "281.4"
+ },
+ "Tetradeca-2E,4E,6E,12Z-tetraene-8,10-diynoic acid isopentylamide": {
+  "trivial_names": "-",
+  "formula": "C19H23NO",
+  "molecular_weight": "281.4"
+ },
+ "Tetradeca-2E,4E-diene-8,10-diynoic acid isopentylamide": {
+  "trivial_names": "-",
+  "formula": "C19H27NO",
+  "molecular_weight": "285.43"
+ },
+ "Tetradeca-2E,4E,6Z,12Z-tetraene-8,10-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C18H21NO",
+  "molecular_weight": "267.37"
+ },
+ "Tetradeca-2E,4E,6E,12Z-tetraene-8,10-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C18H21NO",
+  "molecular_weight": "267.37"
+ },
+ "Tetradeca-2E,4E,12Z-triene-8,10-diynoic acid isopentylamide": {
+  "trivial_names": "-",
+  "formula": "C19H25NO",
+  "molecular_weight": "283.41"
+ },
+ "Deca-2E-ene-4,6,8-triynoic acid isobutylamide": {
+  "trivial_names": "Dehydromatricaria acid isobutylamide",
+  "formula": "C14H15NO",
+  "molecular_weight": "213.28"
+ },
+ "Tetradeca-2E,4E,8Z-trienoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C18H31NO",
+  "molecular_weight": "277.45"
+ },
+ "Tetradeca-2E,4E,8Z,11Z-tetraenoic acid isobutylamide": {
+  "trivial_names": "Hazaleamide",
+  "formula": "C18H29NO",
+  "molecular_weight": "275.43"
+ },
+ "Tetradeca-2E,4E-dienoic acid pyrrolidide": {
+  "trivial_names": "-",
+  "formula": "C18H31NO",
+  "molecular_weight": "277.45"
+ },
+ "Tetradeca-2E,4E,10Z-triene-8-ynoic acid pyrrolidide": {
+  "trivial_names": "-",
+  "formula": "C18H25NO",
+  "molecular_weight": "271.4"
+ },
+ "Tetradeca-2E,4E-diene-8,10-diynoic acid pyrrolidide": {
+  "trivial_names": "-",
+  "formula": "C18H23NO",
+  "molecular_weight": "269.39"
+ },
+ "Tetradeca-2E,4E,12E-triene-8,10-diynoic acid pyrrolidide": {
+  "trivial_names": "-",
+  "formula": "C18H21NO",
+  "molecular_weight": "267.37"
+ },
+ "Tetradeca-2E,4E,6E,10E-tetraene-8-ynoic acid piperidide": {
+  "trivial_names": "-",
+  "formula": "C19H25NO",
+  "molecular_weight": "283.41"
+ },
+ "Deca-2E,4E-dienoic acid 4-hydroxic piperideide": {
+  "trivial_names": "-",
+  "formula": "C15H23NO2",
+  "molecular_weight": "249.35"
+ },
+ "Tetradeca-2E,4E,12E-triene-8,10-diynoic acid piperidide": {
+  "trivial_names": "-",
+  "formula": "C19H23NO",
+  "molecular_weight": "281.4"
+ },
+ "Trideca-2E,4E-dienoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C17H31NO",
+  "molecular_weight": "265.44"
+ },
+ "Undeca-2E,4E-dienoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C15H27NO",
+  "molecular_weight": "237.39"
+ },
+ "Hexadeca-2Z,6Z,8Z,12E-tetraenoic-10-ynoic acid 2,3-didehydropyrrolidide": {
+  "trivial_names": "-",
+  "formula": "C20H25NO",
+  "molecular_weight": "295.42"
+ },
+ "Dodeca-2E-ene-6,8,10-triynoic acid piperidide": {
+  "trivial_names": "-",
+  "formula": "C17H19NO",
+  "molecular_weight": "253.34"
+ },
+ "Octadeca-2E-ene-12-hydroic acid piperidide": {
+  "trivial_names": "lycaonic acid piperidide",
+  "formula": "C23H41NO2",
+  "molecular_weight": "363.58"
+ },
+ "Octadeca-2E-ene-12-hydroic acid piperideide": {
+  "trivial_names": "2,3-dehydrolycaonic acid piperidide",
+  "formula": "C23H39NO2",
+  "molecular_weight": "361.57"
+ },
+ "Octadeca-2E-ene-12-hydroic acid pyrrolidide": {
+  "trivial_names": "lycaonic acid pyrrolidide",
+  "formula": "C22H39NO2",
+  "molecular_weight": "349.56"
+ },
+ "Octadeca-2E-ene-12-hydroic acid 2,3-didehydropyrrolidide": {
+  "trivial_names": "2,3-dehydrolycaonic acid pyrrolidide",
+  "formula": "C22H37NO2",
+  "molecular_weight": "347.54"
+ },
+ "Tetradeca-2E,4E,6E,12E-tetraene-8,10-diynoic acid piperidide": {
+  "trivial_names": "-",
+  "formula": "C19H21NO",
+  "molecular_weight": "279.38"
+ },
+ "Tetradeca-2E,4E,10Z-triene-8-ynoic acid piperidide": {
+  "trivial_names": "-",
+  "formula": "C19H27NO",
+  "molecular_weight": "285.43"
+ },
+ "Undeca-2E,4Z-diene-7,9-diynoic acid isobutylamide": {
+  "trivial_names": "Neopellitorine A",
+  "formula": "C15H19NO",
+  "molecular_weight": "229.32"
+ },
+ "Deca-2E,4Z-dienoic acid piperidide": {
+  "trivial_names": "Neopellitorine B",
+  "formula": "C15H25NO",
+  "molecular_weight": "235.37"
+ },
+ "Hexa-2E,4E-diene-6-thiophenic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C14H19NOS",
+  "molecular_weight": "249.37"
+ },
+ "Deca-2E,4E-diene-7,9-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C14H17NO",
+  "molecular_weight": "215.3"
+ },
+ "Undeca-2E,4E-diene-7,9-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C15H19NO",
+  "molecular_weight": "229.32"
+ },
+ "Hexa-2E,4E-diene-6-methylthiophenic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C15H21NOS",
+  "molecular_weight": "263.4"
+ },
+ "Dodeca-2E,6Z,8E,10E-tetraenoic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "Hydroxy-\u03b1-sanshool",
+  "formula": "C16H25NO2",
+  "molecular_weight": "263.38"
+ },
+ "Dodeca-2E,6E,8E,10E-tetraenoic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "Hydroxy-\u03b2-sanshool",
+  "formula": "C16H25NO2",
+  "molecular_weight": "263.38"
+ },
+ "Dodeca-2E,6Z,8E,10Z-tetraenoic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "Hydroxy-\u03b5-sanshool",
+  "formula": "C16H25NO2",
+  "molecular_weight": "263.38"
+ },
+ "Tetradeca-2E,4E,8Z,10E,12E-pentaenoic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "Hydroxy-\u03b3-sanshool",
+  "formula": "C18H27NO2",
+  "molecular_weight": "289.42"
+ },
+ "Dodeca-2E,6Z,8E,10E-tetraenoic acid isobutylamide": {
+  "trivial_names": "\u03b1-sanshool",
+  "formula": "C16H25NO",
+  "molecular_weight": "247.38"
+ },
+ "Dodeca-2E,6E,8E,10E-tetraenoic acid isobutylamide": {
+  "trivial_names": "\u03b2-sanshool",
+  "formula": "C16H25NO",
+  "molecular_weight": "247.38"
+ },
+ "Tetradeca-2E,4E,8Z,10E-12E-pentaenoic acid isobutylamide": {
+  "trivial_names": "\u03b3-sanshool",
+  "formula": "C18H27NO",
+  "molecular_weight": "273.42"
+ },
+ "Tetradeca-2E,4E-diene-8-hydroic acid isobutylamide": {
+  "trivial_names": "Lanyuamide I",
+  "formula": "C18H31NO2",
+  "molecular_weight": "293.45"
+ },
+ "Tetradeca-2E,4E,8Z-triene-12-hydroic acid isobutylamide": {
+  "trivial_names": "Lanyuamide II",
+  "formula": "C18H29NO2",
+  "molecular_weight": "291.43"
+ },
+ "Tetradeca-2E,4E,8Z,11E-tetraenoic acid  isobutylamide": {
+  "trivial_names": "Lanyuamide III, Dihydro-\u03b3-sanshool",
+  "formula": "C18H29NO",
+  "molecular_weight": "275.43"
+ },
+ "Tetradeca-2E,4E,8Z,11E-tetraene-acid 2-hydroxy isobutylamide": {
+  "trivial_names": "Isobungeanool",
+  "formula": "C18H29NO2",
+  "molecular_weight": "291.43"
+ },
+ "Tetradeca-2E,4E-dienoic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "Tetrahydrobungeanool",
+  "formula": "C18H33NO2",
+  "molecular_weight": "295.4700000000001"
+ },
+ "Tetradeca-2E,4E,8Z,11Z-tetraene-acid 2-hydroxy isobutylamide": {
+  "trivial_names": "Bungeanool",
+  "formula": "C18H29NO2",
+  "molecular_weight": "291.43"
+ },
+ "Tetradeca-2E,4E,8E,10E,12E-pentaenoic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "Hydroxy-\u03b3-isosanshool",
+  "formula": "C18H27NO2",
+  "molecular_weight": "289.42"
+ },
+ "Tetradeca-2E,4E,8Z-trienoic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "Dihydrobungeanool",
+  "formula": "C18H31NO2",
+  "molecular_weight": "293.45"
+ },
+ "Tetradeca-2E,4E,8Z,10E,12E-pentene-2\u2019-dehydroic acid isobutylamide": {
+  "trivial_names": "Dehydro-\u03b3-sanshool",
+  "formula": "C18H25NO",
+  "molecular_weight": "271.4"
+ },
+ "Dodeca-2E,6Z,8E,10E-tetraenoic acid 2-hydroxyic-2-methyl-hydroxy isobutylamide": {
+  "trivial_names": "2\u2019,3\u2019-dihydroxy-\u03b1-sanshool",
+  "formula": "C16H25NO3",
+  "molecular_weight": "279.38"
+ },
+ "Dodeca-2E,6E,8E,10E-tetraenoic acid 2-hydroxyic-2-methyl-hydroxy isobutylamide": {
+  "trivial_names": "2\u2019,3\u2019-dihydroxy-\u03b2-sanshool",
+  "formula": "C16H25NO3",
+  "molecular_weight": "279.38"
+ },
+ "Tetradeca-2E,6E,8E,10E,12E-pentaenoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C18H27NO",
+  "molecular_weight": "273.42"
+ },
+ "Dodeca-2E,7E,9E-trienoic-6-hydroxy-11-hydroic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "ZP-amide A\r\n",
+  "formula": "C16H25NO4",
+  "molecular_weight": "295.38"
+ },
+ "Dodeca-2E,7E,9E-trienoic-6-hydro-11-hydroxic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "ZP-amide B\r\n",
+  "formula": "C16H25NO4",
+  "molecular_weight": "295.38"
+ },
+ "(10RS,11SR)-dodeca-2E,6Z,8E-trienoic-10,11-hydroxic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H27NO4",
+  "molecular_weight": "297.39"
+ },
+ "(10RS,11RS)-dodeca-2E,6Z,8E-trienoic-10,11-hydroxic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H27NO4",
+  "molecular_weight": "297.39"
+ },
+ "(6RS,11SR)-Dodeca-2E,7E,9E-trienoic-6,11-hydroxic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H27NO4",
+  "molecular_weight": "297.39"
+ },
+ "(6RS,11RS)-Dodeca-2E,7E,9E-trienoic-6,11-hydroxic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H27NO4",
+  "molecular_weight": "297.39"
+ },
+ "Tetradeca-2E,4E-diene-8-hydroic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "Hydroxy lanyuamide I",
+  "formula": "C18H31NO3",
+  "molecular_weight": "309.45"
+ },
+ "Tetradeca-2E,4E,8Z-triene-12-hydroic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "Hydroxy lanyuamide II",
+  "formula": "C19H29NO3",
+  "molecular_weight": "307.43"
+ },
+ "6-(3,4-methylenedioxy-phenyl)-N-isobutyl-3-(isohexenyl)cyclohex-3-enecarboxamide": {
+  "trivial_names": "Heitziamide A",
+  "formula": "C24H33NO3",
+  "molecular_weight": "383.53"
+ },
+ "Tri-2E-ene-3\u2019-hydroxy-3-(1,3-benzodioxol-5-yl) acid isobutylamide": {
+  "trivial_names": "Trans-3-hydroxyfagaramide, Heitziamide B",
+  "formula": "C14H17NO4",
+  "molecular_weight": "263.29"
+ },
+ "Tri-2E-ene-3-(1,3-benzodioxol-5-yl) acid isobutylamide": {
+  "trivial_names": "Fagaramide",
+  "formula": "C14H17NO3",
+  "molecular_weight": "247.29"
+ },
+ "Tri-2E-ene-3-(1,3-benzodioxol-5-yl) acid-4\u2019-methoxy-ethylphenylamide": {
+  "trivial_names": "Armatamide",
+  "formula": "C19H19NO4",
+  "molecular_weight": "325.36"
+ },
+ "N-methyl,N-(4-methoxyphenylethyl)-cinnamamide": {
+  "trivial_names": "Herclavine",
+  "formula": "C19H21NO2",
+  "molecular_weight": "295.38"
+ },
+ "N-methyl-N-(3,4- dimethoxyphenylethyl)- 3\u2019,4\u2019-methylenedioxycinnamamide": {
+  "trivial_names": "Zanthosinamide",
+  "formula": "C21H23NO5",
+  "molecular_weight": "369.42"
+ },
+ "N-[2-methoxy-2-(3,4-methoxyphenyl)ethyl]benzamide": {
+  "trivial_names": "O-Methylbalsamide",
+  "formula": "C18H21NO4",
+  "molecular_weight": "315.37"
+ },
+ "N-[2-hydroxy-2-(3,4-methoxyphenyl)ethyl]benzamide": {
+  "trivial_names": "Methylbalsamide",
+  "formula": "C17H19NO4",
+  "molecular_weight": "301.34"
+ },
+ "N-(3,4-methylenedioxyphenylethyl) cyclopropanecarboxamide": {
+  "trivial_names": "Rubesamide",
+  "formula": "C13H15NO3",
+  "molecular_weight": "233.27"
+ },
+ "N-methyl,N-(3,4-methylenedioxyphenylethyl)-cinnamamide": {
+  "trivial_names": "Zanthomamide",
+  "formula": "C19H19NO3",
+  "molecular_weight": "309.36"
+ },
+ "N-(3,4-dimethoxyphenylethyl)-3\u2019,4\u2019-dimethoxycinnamamide": {
+  "trivial_names": "Rubemamin",
+  "formula": "C21H25NO5",
+  "molecular_weight": "371.43"
+ },
+ "N-methyl,N-(3,4-dimethoxyphenylethyl)-3\u2019,4\u2019-dimethoxycinnamamide": {
+  "trivial_names": "Rubemamide",
+  "formula": "C22H27NO5",
+  "molecular_weight": "385.46"
+ },
+ "N-(3,4-methylenedioxyphenylethyl)-3\u2019,4\u2019-methylenedioxycinnamamide": {
+  "trivial_names": "Dioxamin",
+  "formula": "C19H17NO5",
+  "molecular_weight": "339.35"
+ },
+ "N-methyl,N-(3,4-methylenedioxyphenylethyl)-3\u2019,4\u2019-methylenedioxycinnamamide": {
+  "trivial_names": "Dioxamide",
+  "formula": "C20H19NO5",
+  "molecular_weight": "353.37"
+ },
+ "N-(3,4-methylenedioxyphenylethyl)-cinnamamide": {
+  "trivial_names": "Lupeol",
+  "formula": "C18H17NO3",
+  "molecular_weight": "295.34"
+ },
+ "N-methyl,N-(4-methoxyphenylethyl)-3\u2019,4\u2019-dimethoxycinnamamide": {
+  "trivial_names": "Z-Beecheyamide",
+  "formula": "C21H25NO4",
+  "molecular_weight": "355.43"
+ },
+ "N-methyl-2,2-dimethyl-6H-pyrano[5,6-c]quinolin-5-one": {
+  "trivial_names": "N-methylflindersine",
+  "formula": "C15H15NO2",
+  "molecular_weight": "241.29"
+ },
+ "2,2-dimethyl-6H-pyrano[5,6-c]quinolin-5-one": {
+  "trivial_names": "Flindersine",
+  "formula": "C14H13NO2",
+  "molecular_weight": "227.26"
+ },
+ "N-methyl,N-(3,4- dimethoxyphenylethyl)- 3\u2019,4\u2019- methylenedioxycinnamamide": {
+  "trivial_names": "Podocarpamide",
+  "formula": "C20H21NO4",
+  "molecular_weight": "339.39"
+ },
+ "N-methyl,N-(4-hydroxyphenylethyl)-3\u2019-methoxy-4\u2019-hydroxy-cis-cinnamamide": {
+  "trivial_names": "N-cis-feruloyltyramide",
+  "formula": "C18H19NO4",
+  "molecular_weight": "313.35"
+ },
+ "3,3'-Methylenebis[1-methyl-4-hydroxyquinolin-2(1H)-one]": {
+  "trivial_names": "3,3'-methanediylbis(4-hydroxy-1-methylquinolin-2(1H)-one)",
+  "formula": "C21H18N2O4",
+  "molecular_weight": "362.38"
+ },
+ "Isovaleric acid 2-(3-indolyl)-phenethylamide": {
+  "trivial_names": "Madugin",
+  "formula": "C15H20N2O",
+  "molecular_weight": "244.34"
+ },
+ "Isovaleric acid N-methyl-2-(3-indolyl)-phenethylamide": {
+  "trivial_names": "Methylmadugin",
+  "formula": "C16H22N2O",
+  "molecular_weight": "258.36"
+ },
+ "2,3-epoxy-3-phenylpropanoic acid 2-(3-indolyl)-phenylethylamide": {
+  "trivial_names": "Prebalamide",
+  "formula": "C19H18N2O2",
+  "molecular_weight": "306.36"
+ },
+ "7-hydroxy-9-methyl-8-oxo-6-phenylazocino [5,4-b] indole": {
+  "trivial_names": "Balasubramide",
+  "formula": "C20H20N2O2",
+  "molecular_weight": "320.39"
+ },
+ "(3R,4S,5S)-3-Hydroxy-5-[(R)-hydroxy-phenylmethyl]-1-methyl-4-phenylpyrrolidin-2-one": {
+  "trivial_names": "\u03b6-Clausenamide",
+  "formula": "C18H17NO2",
+  "molecular_weight": "279.34"
+ },
+ "Dodeca-2E,11E-diene-12-(benzo[1,3]dioxol-5-yl) acid isobutylamide": {
+  "trivial_names": "Pipgulzarine",
+  "formula": "C23H33NO3",
+  "molecular_weight": "371.52"
+ },
+ "Octadeca-2E,12Z-dienoic acid 4-methylpentylamide": {
+  "trivial_names": "Pipzorine",
+  "formula": "C24H45NO",
+  "molecular_weight": "363.63"
+ },
+ "Hexa-2E-4-hydroxic acid isobutylamide": {
+  "trivial_names": "Pipthasine",
+  "formula": "C10H19NO2",
+  "molecular_weight": "185.27"
+ },
+ "Undeca-2E,4E,10E-triene-11-(benzo[1,3]dioxol-5-yl) acid isobutylamide": {
+  "trivial_names": "Pipercide",
+  "formula": "C22H29NO3",
+  "molecular_weight": "355.48"
+ },
+ "Undeca-2E,4E-diene-11-(benzo[1,3]dioxol-5-yl)-N-(2-methylpropyl) acid isobutylamide": {
+  "trivial_names": "10,11-dihydropipercide",
+  "formula": "C22H31NO3",
+  "molecular_weight": "357.49"
+ },
+ "Pentadeca-2E,4E-diene-6-(benzo[1,3]dioxol-5-yl)-N-(2-methylpropyl) acid piperidide": {
+  "trivial_names": "Piperine",
+  "formula": "C17H19NO3",
+  "molecular_weight": "285.34"
+ },
+ "Penta-2E-ene-5-hydro-5-(benzo[1,3]dioxol-5-yl)] acid piperidide": {
+  "trivial_names": "-",
+  "formula": "C17H19NO4",
+  "molecular_weight": "301.34"
+ },
+ "Tri-2E-ene-3-(benzo[1,3]dioxol-5-yl) acid piperidide": {
+  "trivial_names": "-",
+  "formula": "C15H17NO3",
+  "molecular_weight": "259.3"
+ },
+ "Penta-2E-ene-5-(benzo[1,3]dioxol-5-yl) acid piperidide": {
+  "trivial_names": "Da\u00df dihydropiperine",
+  "formula": "C17H21NO3",
+  "molecular_weight": "287.36"
+ },
+ "Penta-2E,4E-diene-5-(benzo[1,3]dioxol-5-yl) acid isobutylamide": {
+  "trivial_names": "Piperlongumine",
+  "formula": "C16H19NO3",
+  "molecular_weight": "273.33"
+ },
+ "Trideca-2E,4E,12E-triene-13-(benzo[1,3]dioxol-5-yl) acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C24H33NO3",
+  "molecular_weight": "383.53"
+ },
+ "Octadeca-2E,4E,12Z-trienoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C22H39NO",
+  "molecular_weight": "333.56"
+ },
+ "Eicosa-2E,4E,14Z-trienoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C24H43NO",
+  "molecular_weight": "361.61"
+ },
+ "Eicosa-2E,4E-dienoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C24H45NO",
+  "molecular_weight": "363.63"
+ },
+ "Octa-2E,4E-dienoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C12H21NO",
+  "molecular_weight": "195.3"
+ },
+ "Octadeca-2E,4E-dienoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C22H41NO",
+  "molecular_weight": "335.57"
+ },
+ "Hexadeca-2E,4E-dienoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C20H37NO",
+  "molecular_weight": "307.52"
+ },
+ "Deca-2E,4E-dienoic acid 2-methylbutylamide": {
+  "trivial_names": "-",
+  "formula": "C15H27NO",
+  "molecular_weight": "237.39"
+ },
+ "Hexadeca-14-methyl-pyrrolidide": {
+  "trivial_names": "-",
+  "formula": "C21H41NO",
+  "molecular_weight": "323.56"
+ },
+ "N-[2-[5-[2-[(4-Hydroxy-3-methoxyphenyl)-2-hydroxy-1-hydroxymethyl]ethoxy]indol-3-yl]ethyl]-4-hydroxycinnamoyl amide": {
+  "trivial_names": "Ipobscurine B",
+  "formula": "C29H30N2O7",
+  "molecular_weight": "518.57"
+ },
+ "Octadeca-6E,8E-diene-5-hydroic acid phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C25H37NO2",
+  "molecular_weight": "383.57"
+ },
+ "Hexadeca acid phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C23H39NO",
+  "molecular_weight": "345.57"
+ },
+ "(E)-N-[2-[4-[[(2E,6E)-3,7-Dimethyl-8-hydroxy-2,6-octadienyl]oxy]phenyl] ethyl]-3-(methylsulfonyl)acrylamide": {
+  "trivial_names": "Gerambullol",
+  "formula": "C22H31NO5S",
+  "molecular_weight": "421.55"
+ },
+ "\u03b2-(E)-N-[2-[4-[[(E)-3,7-Dimethyl-2,6-octadienyl]oxy]phenyl]-2-hydroxyethyl ]-3-(methylsulfonyl)acrylamide": {
+  "trivial_names": "\u03b2-Hydroxygerambullin",
+  "formula": "C22H31NO5S",
+  "molecular_weight": "421.55"
+ },
+ "Eicosa-2E,4E,8Z-trienoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C24H43NO",
+  "molecular_weight": "361.61"
+ },
+ "Pentacosa acid tyramide": {
+  "trivial_names": "-",
+  "formula": "C33H59NO2",
+  "molecular_weight": "501.84"
+ },
+ "Eicosa-5Z,8Z,11Z,14Z-tetraenoic acid hydroxyethylamide": {
+  "trivial_names": "Anandamide",
+  "formula": "C22H37NO2",
+  "molecular_weight": "347.54"
+ },
+ "Octadeca-9Z,12Z-dienoic acid hydroxyethylamide": {
+  "trivial_names": "N-linoleoylethanolamine",
+  "formula": "C20H37NO2",
+  "molecular_weight": "323.52"
+ },
+ "Hexacosa acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C30H61NO",
+  "molecular_weight": "451.82"
+ },
+ "Buta-2,3-epoxic acid phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C12H15NO2",
+  "molecular_weight": "205.26"
+ },
+ "N-benzoylphenylalanylphenylalinol acetate": {
+  "trivial_names": "Aurantiamide acetate",
+  "formula": "C27H28N2O4",
+  "molecular_weight": "444.53"
+ },
+ "Tetradeca-2E,4E-diene-8,10-diynoic acid tyramide": {
+  "trivial_names": "-",
+  "formula": "C22H25NO2",
+  "molecular_weight": "335.45"
+ },
+ "Tri-2E-ene-3-(benzo[1,3]dioxol-5-yl) acid isopentylamide": {
+  "trivial_names": "-",
+  "formula": "C15H19NO3",
+  "molecular_weight": "261.32"
+ },
+ "Tri-3-(3,4,5-trimethoxy)phenyl acid 3,4-didehydro-2-pyrrolidode": {
+  "trivial_names": "-",
+  "formula": "C16H19NO5",
+  "molecular_weight": "305.33"
+ },
+ "2-hydroxy,5-methoxyphenyl acid 4-hydroxy,5-methoxyphenylethylamide": {
+  "trivial_names": "Aduncamide ",
+  "formula": "C17H19NO5",
+  "molecular_weight": "317.34"
+ },
+ "Tetradeca-2E,4E,8E,10E-tetraenoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C18H29NO",
+  "molecular_weight": "275.43"
+ },
+ "Tetradeca-2E,4 E ,8Z,10Z-tetraenoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C18H29NO",
+  "molecular_weight": "275.43"
+ },
+ "Penta-2E,4Z-diene-5-(benzo[1,3]dioxol-5-yl) acid pyrrolidide": {
+  "trivial_names": "-",
+  "formula": "C16H17NO3",
+  "molecular_weight": "271.32"
+ },
+ "Penta-2E-ene-5-(benzo[1,3]dioxol-5-yl) acid pyrrolidide": {
+  "trivial_names": "-",
+  "formula": "C16H19NO3",
+  "molecular_weight": "273.33"
+ },
+ "Penta-2E,4E-diene-5-(benzo[1,3]dioxol-5-yl) acid pyrrolidide": {
+  "trivial_names": "-",
+  "formula": "C16H17NO3",
+  "molecular_weight": "271.32"
+ },
+ "Penta-5-(benzo[1,3]dioxol-5-yl) acid pyrrolidide": {
+  "trivial_names": "-",
+  "formula": "C16H21NO3",
+  "molecular_weight": "275.35"
+ },
+ "Tri-2E-ene-3-(3,4,5-trimethoxy)phenyl acid 3,4-didehydro-2-piperidode": {
+  "trivial_names": " Piplarine",
+  "formula": "C17H19NO5",
+  "molecular_weight": "317.34"
+ },
+ "Tri-3-(3,4,5-trimethoxy)phenyl acid 3,4-didehydro-2-piperidode": {
+  "trivial_names": "Dihydropiplarine",
+  "formula": "C17H21NO5",
+  "molecular_weight": "319.36"
+ },
+ "Tri-2Z-ene-3-(3,4,5-trimethoxy)phenyl acid 3,4-didehydro-2-piperidode": {
+  "trivial_names": "Cis-piplarine",
+  "formula": "C17H19NO5",
+  "molecular_weight": "317.34"
+ },
+ "Tri-2E-ene-3-phenyl acid N-methyl-N-methylsulfanyl-1E-ethylamide": {
+  "trivial_names": "Methylillukumbin A",
+  "formula": "C13H15NOS",
+  "molecular_weight": "233.33"
+ },
+ "Tri-2E-ene-3-phenyl acid N-methyl-N-methylsulfanyl-1Z-ethylamide": {
+  "trivial_names": "Methylillukumbin B",
+  "formula": "C13H15NOS",
+  "molecular_weight": "233.33"
+ },
+ "Tri-2E-ene-3-phenyl acid methylsulfanyl-1Z-ethylamide": {
+  "trivial_names": "Illukumbin B",
+  "formula": "C12H13NOS",
+  "molecular_weight": "219.3"
+ },
+ "Tri-2E-ene-3-phenyl acid N-methyl-N-methylsulfanyl-ethylamide": {
+  "trivial_names": "Methylsinharin",
+  "formula": "C13H17NOS",
+  "molecular_weight": "235.34"
+ },
+ "Tri-2E-ene-methylsulfanyl acid N-methylamide": {
+  "trivial_names": "Penangin",
+  "formula": "C5H9NOS",
+  "molecular_weight": "131.19"
+ },
+ "Tri-2Z-ene-methylsulfanyl acid N-methylamide": {
+  "trivial_names": "Isopenangin",
+  "formula": "C5H9NOS",
+  "molecular_weight": "131.19"
+ },
+ "Methyl-methylsulfanyl acid N-methyl-N-phenylethylamide": {
+  "trivial_names": "Niranin",
+  "formula": "C11H15NOS",
+  "molecular_weight": "209.31"
+ },
+ "Methyl-methylsulfanyl acid N-methyl-N-1\u2019E phenylethylamide": {
+  "trivial_names": "Dehydroniranin A",
+  "formula": "C11H13NOS",
+  "molecular_weight": "207.29"
+ },
+ "Methyl-methylsulfanyl acid N-methyl-N-1\u2019Z phenylethylamide": {
+  "trivial_names": "Dehydroniranin B",
+  "formula": "C11H13NOS",
+  "molecular_weight": "207.29"
+ },
+ "Tri-2Z-ene-3 phenyl acid 3,4-dimethoxyphenylethylamide": {
+  "trivial_names": "Lemairamide",
+  "formula": "C20H23NO3",
+  "molecular_weight": "325.4100000000001"
+ },
+ "Penta-2E-ene-5-(benzo[1,3]dioxol-5-yl) acid isobutylamide": {
+  "trivial_names": "4,5-dihydropiperlongumine ",
+  "formula": "C16H21NO3",
+  "molecular_weight": "275.35"
+ },
+ "Tetradeca-2E,4E-dienoic acid piperidide": {
+  "trivial_names": "-",
+  "formula": "C19H33NO",
+  "molecular_weight": "219.48"
+ },
+ "Tetradeca-2E,4E,8Z-trienoic acid piperidide": {
+  "trivial_names": "-",
+  "formula": "C19H31NO",
+  "molecular_weight": "289.46"
+ },
+ "Tetradeca-2E,4E,8Z,11Z-tetraenoic acid piperidide": {
+  "trivial_names": "-",
+  "formula": "C19H29NO",
+  "molecular_weight": "287.45"
+ },
+ "Tetradeca-2E,4E,8E,10E,12E-pentaenoic acid isobutylamide": {
+  "trivial_names": "g-isosanshool",
+  "formula": "C18H27NO",
+  "molecular_weight": "273.42"
+ },
+ "Deca-2E,4Z-dienoic acid isobutylamide": {
+  "trivial_names": "Cis-pellitorin",
+  "formula": "C14H25NO",
+  "molecular_weight": "223.36"
+ },
+ "Nona-8 methylic acid 4-hydroxy,5-methoxy phenylmethylamide": {
+  "trivial_names": "Dihydrocapsaicin",
+  "formula": "C18H29NO3",
+  "molecular_weight": "307.43"
+ },
+ "Nona acid 4-hydroxy,5-methoxy phenylmethylamide": {
+  "trivial_names": "Vanilllylnonamide",
+  "formula": "C17H27NO3",
+  "molecular_weight": "293.4100000000001"
+ },
+ "Octa-7 methylic acid 4-hydroxy,5-methoxy phenylmethylamide": {
+  "trivial_names": "Norhydrocapsaicin",
+  "formula": "C17H27NO3",
+  "molecular_weight": "293.4100000000001"
+ },
+ "Deca-7E-ene-9-methylic acid 4-hydroxy,5-methoxy phenylmethylamide": {
+  "trivial_names": "Homocapsaicin",
+  "formula": "C19H29NO3",
+  "molecular_weight": "319.44"
+ },
+ "Deca-9-methylic acid 4-hydroxy,5-methoxy phenylmethylamide": {
+  "trivial_names": "Homodihydrocapcaisin",
+  "formula": "C19H31NO3",
+  "molecular_weight": "321.46"
+ },
+ "Tetra acid 4-hydroxy,5-methoxy phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C12H17NO3",
+  "molecular_weight": "223.27"
+ },
+ "Hexa acid 4-hydroxy,5-methoxy phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C14H21NO3",
+  "molecular_weight": "251.33"
+ },
+ "Octa acid 4-hydroxy,5-methoxy phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C16H25NO3",
+  "molecular_weight": "279.38"
+ },
+ "Deca acid 4-hydroxy,5-methoxy phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C18H29NO3",
+  "molecular_weight": "307.43"
+ },
+ "Dodeca acid 4-hydroxy,5-methoxy phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C20H33NO3",
+  "molecular_weight": "335.49"
+ },
+ "Tetradeca acid 4-hydroxy,5-methoxy phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C22H37NO3",
+  "molecular_weight": "363.54"
+ },
+ "Hexadeca acid 4-hydroxy,5-methoxy phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C24H41NO3",
+  "molecular_weight": "319.59"
+ },
+ "Octadeca-9E enoic acid 4-hydroxy,5-methoxy phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C26H43NO3",
+  "molecular_weight": "417.63"
+ },
+ "Octa acid phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C15H23NO",
+  "molecular_weight": "233.35"
+ },
+ "Octa acid 3-methoxy-phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C16H25NO2",
+  "molecular_weight": "263.38"
+ },
+ "Hexanoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C10H21NO",
+  "molecular_weight": "171.28"
+ },
+ "Octanoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C12H25NO",
+  "molecular_weight": "199.34"
+ },
+ "Decanoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C14H29NO",
+  "molecular_weight": "227.39"
+ },
+ "Deca-2E-enoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C14H27NO",
+  "molecular_weight": "225.37"
+ },
+ "Dodecanoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H33NO",
+  "molecular_weight": "255.44"
+ },
+ "Hexanoic acid phenylethyl amide": {
+  "trivial_names": "-",
+  "formula": "C14H21NO",
+  "molecular_weight": "219.33"
+ },
+ "Octanoic acid phenylethyl amide": {
+  "trivial_names": "-",
+  "formula": "C16H25NO",
+  "molecular_weight": "247.38"
+ },
+ "Decanoic acid phenylethyl amide": {
+  "trivial_names": "-",
+  "formula": "C18H29NO",
+  "molecular_weight": "275.43"
+ },
+ "Deca-2E-enoic acid phenylethyl amide": {
+  "trivial_names": "-",
+  "formula": "C18H27NO",
+  "molecular_weight": "273.42"
+ },
+ "Dodecanoic acid phenylethyl amide": {
+  "trivial_names": "-",
+  "formula": "C20H33NO",
+  "molecular_weight": "303.49"
+ },
+ "Tri-2Z-ene-3-(4-hydroxy)phenyl acid 2,3-dihydroxy putrescide": {
+  "trivial_names": "Pharnilatin B",
+  "formula": "C13H18N2O4",
+  "molecular_weight": "266.3"
+ },
+ "Dodeca-2Z,4E,10Z-triene-8-ynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H23NO",
+  "molecular_weight": "245.36"
+ },
+ "Undeca-2E,5Z-diene-8,10-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C15H19NO",
+  "molecular_weight": "229.32"
+ },
+ "N-benzoyl tyramide": {
+  "trivial_names": "-",
+  "formula": "C15H15NO2",
+  "molecular_weight": "241.29"
+ },
+ "N-benzoyl 4-methoxy phenylethylamide ": {
+  "trivial_names": "-",
+  "formula": "C16H17NO2",
+  "molecular_weight": "255.32"
+ },
+ "N-2-hydroxybenzoyl tyramide": {
+  "trivial_names": "-",
+  "formula": "C15H15NO3",
+  "molecular_weight": "257.29"
+ },
+ "N-2-hydroxybenzoyl 4-methoxy phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C16H17NO3",
+  "molecular_weight": "271.32"
+ },
+ "N-(2,6-dihydroxybenzoyl) 4-methoxy phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C16H17NO4",
+  "molecular_weight": "287.32"
+ },
+ "N-2-hydroxy-6-methoxybenzoyl 4-methoxy phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C17H19NO4",
+  "molecular_weight": "301.34"
+ },
+ "Hepta-2Z,4Z-diene-3-(1,3-benzodioxol-5-yl) acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C18H23NO3",
+  "molecular_weight": "301.39"
+ },
+ "Tri-2Z-ene-3\u2019-methoxy-3-(1,3-benzodioxol-5-yl) acid pyrrolidide": {
+  "trivial_names": "-",
+  "formula": "C15H17NO4",
+  "molecular_weight": "275.3"
+ },
+ "Octadeca-2E,4E,8E,10Z,14Z-pentaene-12-ynoic acid 2-methylbutylamide": {
+  "trivial_names": "-",
+  "formula": "C23H33NO",
+  "molecular_weight": "339.52"
+ },
+ "Hexadeca-2E,4E,9Z-triene-12,14-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C20H27NO",
+  "molecular_weight": "297.44"
+ },
+ "Hexadecanoic acid 3-methyoxy phenylmethylamide ": {
+  "trivial_names": "-",
+  "formula": "C24H41NO2",
+  "molecular_weight": "375.59"
+ },
+ "Octadeca-9Z-enoic acid phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C25H41NO",
+  "molecular_weight": "371.61"
+ },
+ "Octadeca-9Z-enoic acid 3-methoxy phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C26H43NO2",
+  "molecular_weight": "401.63"
+ },
+ "Octadeca-9Z,12Z-dienoic acid phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C25H39NO",
+  "molecular_weight": "369.59"
+ },
+ "Octadeca-9Z,12Z-dienoic acid 3-methoxy phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C26H42NO2",
+  "molecular_weight": "399.62"
+ },
+ "Octadeca-9Z,12Z,15Z-trienoic acid phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C25H37NO",
+  "molecular_weight": "367.57"
+ },
+ "Octadeca-9Z,12Z,15Z-trienoic acid 3-methoxy phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C26H39NO2",
+  "molecular_weight": "397.6"
+ },
+ "Octadecanoic acid phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C25H43NO",
+  "molecular_weight": "373.62"
+ },
+ "Pentadecanoic acid phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C22H37NO",
+  "molecular_weight": "331.54"
+ },
+ "Heptadecanoic acid phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C24H41NO",
+  "molecular_weight": "359.6"
+ },
+ "Hexadeca-2E,9Z-diene-12,14-diynoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C20H29NO",
+  "molecular_weight": "299.46"
+ },
+ "dodeca-2E-ene-8,10-diynoic acid 2-methylbutylamide": {
+  "trivial_names": "-",
+  "formula": "C17H25NO",
+  "molecular_weight": "259.39"
+ },
+ "Dodeca-2E,4E-dienoic acid 2-methylbutylamide": {
+  "trivial_names": "-",
+  "formula": "C17H31NO",
+  "molecular_weight": "265.44"
+ },
+ "Pentadeca-2E,9Z-diene-12,14-diynoic acid 2-methylbutylamide": {
+  "trivial_names": "-",
+  "formula": "C20H29NO",
+  "molecular_weight": "299.46"
+ },
+ "Hepta-2E,4E,6E-triene-thiophenic acid isopentylamide": {
+  "trivial_names": "-",
+  "formula": "C16H21NOS",
+  "molecular_weight": "275.41"
+ },
+ "Hepta-2E,4E,6E-triene-thiophenic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C15H19NOS",
+  "molecular_weight": "261.38"
+ },
+ "Hepta-2E,4E,6E-triene-thiophenic acid piperidide": {
+  "trivial_names": "-",
+  "formula": "C16H19NOS",
+  "molecular_weight": "273.39"
+ },
+ "Hepta-2E,4E,6E-triene-thiophenic acid piperideide": {
+  "trivial_names": "-",
+  "formula": "C16H17NOS",
+  "molecular_weight": "271.38"
+ },
+ "Octadeca-12Z-ene-9-hydroic acid phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C25H39NO2",
+  "molecular_weight": "385.59"
+ },
+ "Octadeca-12Z,15Z-diene-9-hydroic acid phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C25H37NO2",
+  "molecular_weight": "383.57"
+ },
+ "Octadeca-9E,11E-diene-13-hydroic acid phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C25H37NO2",
+  "molecular_weight": "383.57"
+ },
+ "Tetracosa-15Z-enoic acid phenylmethylamide": {
+  "trivial_names": "-",
+  "formula": "C31H53NO",
+  "molecular_weight": "455.77"
+ },
+ "Dodecanoic acid propylamide": {
+  "trivial_names": "-",
+  "formula": "C15H31NO",
+  "molecular_weight": "241.42"
+ },
+ "Dodecanoic acid isopropylamide": {
+  "trivial_names": "-",
+  "formula": "C15H31NO",
+  "molecular_weight": "241.42"
+ },
+ "Dodecanoic acid ethylamide": {
+  "trivial_names": "-",
+  "formula": "C14H29NO",
+  "molecular_weight": "227.39"
+ },
+ "Hexadecanoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C20H41NO",
+  "molecular_weight": "311.55"
+ },
+ "Hexadecanoic acid propylamide": {
+  "trivial_names": "-",
+  "formula": "C19H39NO",
+  "molecular_weight": "297.52"
+ },
+ "Hexadecanoic acid isopropylamide": {
+  "trivial_names": "-",
+  "formula": "C19H39NO",
+  "molecular_weight": "297.52"
+ },
+ "Hexadecanoic acid ethylamide": {
+  "trivial_names": "-",
+  "formula": "C18H37NO",
+  "molecular_weight": "283.5"
+ },
+ "Octadeca-9Z,12Z-dienoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C22H41NO",
+  "molecular_weight": "335.57"
+ },
+ "Octadeca-9Z,12Z-dienoic acid propylamide": {
+  "trivial_names": "-",
+  "formula": "C21H39NO",
+  "molecular_weight": "321.55"
+ },
+ "Octadeca-9Z,12Z-dienoic acid isopropylamide": {
+  "trivial_names": "-",
+  "formula": "C21H39NO",
+  "molecular_weight": "321.55"
+ },
+ "Octadeca-9Z,12Z-dienoic acid ethylamide": {
+  "trivial_names": "-",
+  "formula": "C20H37NO",
+  "molecular_weight": "307.52"
+ },
+ "Deca-2E-ene-4,5-dihydroxy acid isobutylamide": {
+  "trivial_names": "sylvamide ",
+  "formula": "C14H27NO3",
+  "molecular_weight": "257.37"
+ },
+ "Deca-2E,4E-diene-9-ynoic acid tyramide": {
+  "trivial_names": "acmelline ",
+  "formula": "C18H21NO2",
+  "molecular_weight": "283.37"
+ },
+ "Undeca-4E,6E-diene-10-ynoic acid isobutylamide": {
+  "trivial_names": "decumbine ",
+  "formula": "C15H23NO",
+  "molecular_weight": "233.35"
+ },
+ "Dodeca-2E,6Z-dienoic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H29NO2",
+  "molecular_weight": "267.41"
+ },
+ "Dodeca-5Z-enoic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H31NO2",
+  "molecular_weight": "269.43"
+ },
+ "Dodeca-2E-enoic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H31NO2",
+  "molecular_weight": "269.43"
+ },
+ "Dodecanoic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H33NO2",
+  "molecular_weight": "271.44"
+ },
+ "Dodeca-2E-enoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H31NO",
+  "molecular_weight": "253.43"
+ },
+ "Tetranoic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C8H17NO",
+  "molecular_weight": "143.23"
+ },
+ "Dodeca-2E-enoic acid 2-methylbutylamide": {
+  "trivial_names": "-",
+  "formula": "C17H33NO",
+  "molecular_weight": "267.46"
+ },
+ "Dodecanoic acid 2-methylbutylamide": {
+  "trivial_names": "-",
+  "formula": "C15H35NO",
+  "molecular_weight": "269.47"
+ },
+ "Dodeca-2E-enoic acid methylphenylamide": {
+  "trivial_names": "-",
+  "formula": "C19H29NO",
+  "molecular_weight": "287.45"
+ },
+ "Dodecanoic acid methylphenylamide": {
+  "trivial_names": "-",
+  "formula": "C19H31NO",
+  "molecular_weight": "289.46"
+ },
+ "Dodecanoic acid hexylamide": {
+  "trivial_names": "-",
+  "formula": "C18H37NO",
+  "molecular_weight": "283.5"
+ },
+ "Dodeca-2E,7E,9E-triene-6,11-dihydroic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C16H23NO4",
+  "molecular_weight": "293.36"
+ },
+ "Deca-2E,6E,8E-triene-10-hydroic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C14H21NO3",
+  "molecular_weight": "251.33"
+ },
+ "Tri-2E-ene-3-(benzo[1,3]dioxol-5-yl) acid piperideide": {
+  "trivial_names": "-",
+  "formula": "C15H15NO3",
+  "molecular_weight": "257.29"
+ },
+ "Tri-2E-ene-3\u2019-methoxy-3-(1,3-benzodioxol-5-yl) acid piperideide": {
+  "trivial_names": "-",
+  "formula": "C16H17NO4",
+  "molecular_weight": "287.32"
+ },
+ "Tri-2E-ene-3-(benzoyl) acid piperideide": {
+  "trivial_names": "-",
+  "formula": "C14H15NO",
+  "molecular_weight": "213.28"
+ },
+ "Tri-3-(benzoyl) acid 3,4-didehydro-2-piperidode": {
+  "trivial_names": "Piperchabamide A",
+  "formula": "C14H15NO2",
+  "molecular_weight": "229.28"
+ },
+ "Hepta-2E,4E-diene-7-(benzo[1,3]dioxol-5-yl) acid piperidide": {
+  "trivial_names": "piperdardine",
+  "formula": "C19H23NO3",
+  "molecular_weight": "313.4"
+ },
+ "Hepta-2E,4E-diene-7-(benzo[1,3]dioxol-5-yl) acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C18H23NO3",
+  "molecular_weight": "301.39"
+ },
+ "Tri-2Z-ene-3-(benzo[1,3]dioxol-5-yl) acid piperidide": {
+  "trivial_names": "-",
+  "formula": "C15H17NO3",
+  "molecular_weight": "259.3"
+ },
+ "Tri-2E-ene-3-(benzoyl) acid 4-piperidode": {
+  "trivial_names": "-",
+  "formula": "C14H15NO2",
+  "molecular_weight": "229.28"
+ },
+ "Tri-2E-ene-3-(benzoyl) acid piperidide": {
+  "trivial_names": "-",
+  "formula": "C14H17NO",
+  "molecular_weight": "215.3"
+ },
+ "Tri-2E-ene-3-(benzoyl) acid 2-piperidode": {
+  "trivial_names": "-",
+  "formula": "C14H15NO2",
+  "molecular_weight": "229.28"
+ },
+ "Dodeca-2E,7E,9E-trienoic-6-ethoxy-11-hydroxic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "Qinbunamide A",
+  "formula": "C18H31NO4",
+  "molecular_weight": "325.45"
+ },
+ "Dodeca-2E,7E,9E-trienoic-6-hydroxy-11-ethoxic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "Qinbunamide B",
+  "formula": "C18H31NO4",
+  "molecular_weight": "325.45"
+ },
+ "Undeca-2E,6E,8E-trienoic-5-hydro-10-hydroxic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "Qinbunamide C",
+  "formula": "C15H23NO4",
+  "molecular_weight": "281.35"
+ },
+ "Dodeca-2E,7E,9E-trienoic-6,11-dihydroxic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "ZP-amide E",
+  "formula": "C16H27NO4",
+  "molecular_weight": "297.39"
+ },
+ "Dodeca-2E,6Z,8E-trienoic-10,11-dihydroxic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "ZP-amide C",
+  "formula": "C16H27NO4",
+  "molecular_weight": "297.39"
+ },
+ "Dodeca-2E,6E,8E-trienoic-10,11-dihydroxic acid 2-hydroxy isobutylamide": {
+  "trivial_names": "ZP-amide D",
+  "formula": "C16H27NO4",
+  "molecular_weight": "297.39"
+ },
+ "Deca-2E,7E-diene-6,9-dihydroxic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C14H25NO3",
+  "molecular_weight": "255.36"
+ },
+ "Deca-2E,6Z-diene-8,9-dihydroxic acid isobutylamide": {
+  "trivial_names": "-",
+  "formula": "C14H25NO3",
+  "molecular_weight": "255.36"
+ },
+ "Nona-2,3-dihydroxy-6,8-diynoic acid phenylethylamide": {
+  "trivial_names": "-",
+  "formula": "C17H19NO3",
+  "molecular_weight": "285.34"
+ },
+ "Dodeca-2E,7E,9E-triene-6-hydroxy-11-hydroic acid isobutylamide": {
+  "trivial_names": "Zanthoxylumamide A",
+  "formula": "C16H25NO3",
+  "molecular_weight": "281.4"
+ },
+ "Dodeca-2E,7E,9E-triene-6-hydro-11-hydroxic acid isobutylamide": {
+  "trivial_names": "Zanthoxylumamide B",
+  "formula": "C16H25NO3",
+  "molecular_weight": "279.38"
+ },
+ "Dodeca-2E,7E,9E-triene-6,11-dihydroxic acid isobutylamide": {
+  "trivial_names": "Zanthoxylumamide C",
+  "formula": "C16H27NO3",
+  "molecular_weight": "281.4"
+ },
+ "Tetradeca-2E,4E,9E,11E-tetraene-8,13-dihydroxic acid isobutylamide": {
+  "trivial_names": "Zanthoxylumamide D",
+  "formula": "C18H29NO3",
+  "molecular_weight": "307.43"
+ }
+}
